@@ -79,7 +79,7 @@ $result = mysqli_query($koneksi, "SELECT * FROM menu_makanan");
         <h2>Daftar Menu Makanan</h2>
         <div class="button-group"> 
             <a href="dashboard.php" class="btn">← Kembali ke Dashboard</a>
-            <a href="tambah_minuman.php" class="btn">+ Tambah Makanan</a>
+            <a href="tambah_makanan.php" class="btn">+ Tambah Makanan</a>
         </div>  
     </div>
     <table>
